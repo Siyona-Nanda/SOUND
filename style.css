@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(144, 245, 211);
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+
+.main_div button {
+    font-family: 'Zen Kurenaido', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_foooter {
+    initial-letter-align: left;
+    font-size: 25px;
+    background-color: azure;
+    text-shadow: 5px 5px 5px grey;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
